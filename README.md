@@ -1,2 +1,2 @@
 # MySecondProjects
-今天是我第一天来到GitHub
+# 今天是我第二天来到GitHub
